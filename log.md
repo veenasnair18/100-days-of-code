@@ -11,3 +11,6 @@
 ### Day 2: 26/04/21 
 
 **Today's Progress** Completed upto Lists and Tuples.
+
+###Day 3:27/04/21
+**Today's Progress** Completed List Comprehension and Strings.
