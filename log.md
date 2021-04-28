@@ -14,3 +14,6 @@
 
 ### Day 3:27/04/21
 **Today's Progress** Completed List Comprehension and Strings.
+
+### Day 4:28/04/21
+**Today's Progress** Dictionaries and worked with some external libraries.
