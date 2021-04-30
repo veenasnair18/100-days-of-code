@@ -20,3 +20,7 @@
 
 ### Day 5:29/04/21
 **Today's Progress** Started studying ML,completed pandas.
+
+### Day 6:30/04/21
+**Today's Progress** Completed Model validation,underfitting and overfitting in Machine Learning.
+
