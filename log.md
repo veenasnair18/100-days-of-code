@@ -27,3 +27,6 @@
 ### Day 7:01/04/21
 **Today's Progress** Completed Machine Learning course in Kaglle and started learning R(completed upto Math Variables and Strings)
 
+### Day 8:02/04/21
+**Today's Progress** Vectors and Factors in R
+
