@@ -24,12 +24,12 @@
 ### Day 6:30/04/21
 **Today's Progress** Completed Model validation,underfitting and overfitting in Machine Learning.
 
-### Day 7:01/04/21
+### Day 7:01/05/21
 **Today's Progress** Completed Machine Learning course in Kaglle and started learning R(completed upto Math Variables and Strings)
 
-### Day 8:02/04/21
+### Day 8:02/05/21
 **Today's Progress** Vectors and Factors in R
 
-### Day 9:03/04/21
+### Day 9:03/05/21
 **Today's Progress** Array,Matrices and Lists in R
 
