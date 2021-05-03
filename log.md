@@ -30,3 +30,6 @@
 ### Day 8:02/04/21
 **Today's Progress** Vectors and Factors in R
 
+### Day 9:03/04/21
+**Today's Progress** Array,Matrices and Lists in R
+
