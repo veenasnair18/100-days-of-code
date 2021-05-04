@@ -33,3 +33,6 @@
 ### Day 9:03/05/21
 **Today's Progress** Array,Matrices and Lists in R
 
+### Day 10:04/05/21
+**Today's Progress** Dataframes,conditionals and loops in R.
+
