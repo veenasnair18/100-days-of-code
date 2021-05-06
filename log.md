@@ -38,3 +38,6 @@
 
 ### Day 11:05/05/21
 **Today's Progress** Functions,objects and classes , debugging in R.
+
+### Day 12:06/05/21
+**Today's Progress** Learnt how to read,write and export different types of files in R.
