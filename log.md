@@ -41,3 +41,6 @@
 
 ### Day 12:06/05/21
 **Today's Progress** Learnt how to read,write and export different types of files in R.
+
+### Day 13:07/05/21
+**Today's Progress** Completed R 101.
