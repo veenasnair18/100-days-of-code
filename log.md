@@ -44,3 +44,6 @@
 
 ### Day 13:07/05/21
 **Today's Progress** Completed R 101.
+
+### Day 14:08/05/21
+**Today's Progress** Started learning the course Machine Learning with R,completed upto Basics of Classification.
