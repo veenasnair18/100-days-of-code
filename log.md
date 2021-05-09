@@ -47,3 +47,6 @@
 
 ### Day 14:08/05/21
 **Today's Progress** Started learning the course Machine Learning with R,completed upto Basics of Classification.
+
+### Day 15:09/05/21
+**Today's Progress** Completed Unsupervised Learning,K Nearest Neighbours and Decision Trees.
