@@ -50,3 +50,6 @@
 
 ### Day 15:09/05/21
 **Today's Progress** Completed Unsupervised Learning,K Nearest Neighbours and Decision Trees.
+
+### Day 16:10/05/21
+**Today's Progress** Completed Random forest.
