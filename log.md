@@ -59,3 +59,8 @@
 
 ### Day 18: 12/05/21
 **Today's Progress** Completed K-Means Clustering.
+
+### Day 19:13/05/21
+**Today's Progress** Completed Hierarchical Clustering,Single Linkage Clustering 
+
+ 
