@@ -63,4 +63,7 @@
 ### Day 19:13/05/21
 **Today's Progress** Completed Hierarchical Clustering,Single Linkage Clustering 
 
+### Day 20: 14/05/21
+**Today's Progress** Completed Algorithms for Hierarchical Clustering.
+
  
