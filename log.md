@@ -67,6 +67,6 @@
 **Today's Progress** Completed Algorithms for Hierarchical Clustering.
 
 ### Day 21: 15/05/21
-**Today's Progress** Completed to introduction to Tensorflow.
+**Today's Progress** Completed introduction to Tensorflow.
 
  
