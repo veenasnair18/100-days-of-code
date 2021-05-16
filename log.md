@@ -69,4 +69,7 @@
 ### Day 21: 15/05/21
 **Today's Progress** Completed introduction to Tensorflow.
 
+### Day 22: 16/05/21
+**Today's Progress** Completed Core algorithms(Linear Algebra upto working with data)
+
  
