@@ -72,4 +72,5 @@
 ### Day 22: 16/05/21
 **Today's Progress** Completed Core algorithms(Linear Regression(upto working with data))
 
- 
+### Day 23: 17/05/21
+**Today's Progress** Completed Linear Regression.
