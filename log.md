@@ -74,3 +74,6 @@
 
 ### Day 23: 17/05/21
 **Today's Progress** Completed Linear Regression.
+
+### Day 24: 18/05/21
+**Today's Progress** Completed Classification.
