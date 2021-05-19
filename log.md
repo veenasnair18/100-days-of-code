@@ -77,3 +77,6 @@
 
 ### Day 24: 18/05/21
 **Today's Progress** Completed Classification.
+
+### Day 25: 19/05/21
+**Today's Progress** Completed Clustering.
