@@ -80,3 +80,6 @@
 
 ### Day 25: 19/05/21
 **Today's Progress** Completed Clustering.
+
+### Day 26: 20/05/21
+**Today's Progress** Completed Hidden Markov Model.
