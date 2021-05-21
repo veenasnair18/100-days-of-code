@@ -83,3 +83,6 @@
 
 ### Day 26: 20/05/21
 **Today's Progress** Completed Hidden Markov Model.
+
+### Day 27: 21/05/21
+**Today's Progress** Started Neural Networks(completed upto Activation Functions)
