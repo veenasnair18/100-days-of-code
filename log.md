@@ -90,3 +90,8 @@
 ### Day 28: 22/05/21
 **Today's Progress** Completed Neural Networks
 
+### Day 29: 23/05/21
+**Today's Progress** Started Convolutional Neural Network.
+
+
+
