@@ -96,5 +96,8 @@
 ### Day 30: 24/05/21
 **Today's Progress** Completed Convolutional Neural Network.
 
+### Day 31 : 25/05/21
+**Today's Progress** Started Natural Language Processing With RNNs.
+
 
 
