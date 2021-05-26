@@ -99,5 +99,8 @@
 ### Day 31 : 25/05/21
 **Today's Progress** Started Natural Language Processing With RNNs.
 
+### Day 32 : 26/05/21
+**Today's Progress** Completed RNN.
+
 
 
