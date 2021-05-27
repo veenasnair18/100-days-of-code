@@ -102,5 +102,8 @@
 ### Day 32 : 26/05/21
 **Today's Progress** Completed RNN.
 
+### Day 33 : 27/05/21
+**Today's Progress** Completed Sentiment Analysis.
+
 
 
