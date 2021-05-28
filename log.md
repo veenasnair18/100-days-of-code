@@ -105,5 +105,8 @@
 ### Day 33 : 27/05/21
 **Today's Progress** Completed Sentiment Analysis.
 
+### Day 34 : 28/05/21
+**Today's Progress** Created a Play generator.
+
 
 
