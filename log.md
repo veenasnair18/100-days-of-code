@@ -108,5 +108,8 @@
 ### Day 34 : 28/05/21
 **Today's Progress** Created a Play generator.
 
+### Day 35 : 29/05/21
+**Today's Progress** Started Learning about Reinforcement Learning.
+
 
 
