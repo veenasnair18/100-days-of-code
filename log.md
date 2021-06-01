@@ -117,6 +117,11 @@
 ### Day 37 : 31/05/21
 **Today's Progress** Completed studying How Deep Neural Networks Work
 
+### Day 38 : 01/06/21
+**Today's Progress** Completed Studying LSTM and RNN
+
+
+
 
 
 
