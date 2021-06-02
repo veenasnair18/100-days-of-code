@@ -120,6 +120,9 @@
 ### Day 38 : 01/06/21
 **Today's Progress** Completed Studying LSTM and RNN
 
+### Day 39 : 02/06/21
+**Today's Progress** Completed Basics of Deep Learning.
+
 
 
 
