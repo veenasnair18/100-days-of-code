@@ -141,6 +141,9 @@
 ### Day 45: 8/06/2021
 **Today's Progress** Started Learning Generative Models
 
+### Day 46: 09/06/2021
+**Today's Progress** RSA and DES
+
 
 
 
