@@ -123,6 +123,24 @@
 ### Day 39 : 02/06/21
 **Today's Progress** Completed Basics of Deep Learning.
 
+### Day 40: 03/06/2021
+**Today's Progress** How Convolutional Neural Networks work
+
+### Day 41 :04/06/2021
+**Today's Progress** Started To learn about CV.
+
+### Day 42: 05/06/2021
+**Today's Progress** Completed Image Classification
+
+### Day 43: 06/06/2021
+**Today's Progress** Started studying Detection and Segmentation
+
+### Day 44: 7/06/2021
+**Today's Progress** Learnt about Image Thresholding
+
+### Day 45: 8/06/2021
+**Today's Progress** Started Learning Generative Models
+
 
 
 
