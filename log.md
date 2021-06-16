@@ -144,6 +144,23 @@
 ### Day 46: 09/06/2021
 **Today's Progress** RSA and DES
 
+### Day 47 june 10 2021
+**Today's Progress** Started Studying about Adversarial Training
+
+### Day 48 june 11 2021
+**Today's Progress** Learnt about Matplotlib with OpenCV
+
+### Day 49 june 12 2021
+**Today's Progress** Started Learning Ethical Hacking using Python
+
+### Day 50 june 13 2021
+**Today's Progress** Created a rt bot using Python
+
+### Day 51 june 14 2021
+**Today's Progress** Learnt about Regular Expressions in Python
+
+### Day 52 june 15 2021
+**Today's Progress** Learnt about Functions in Regex
 
 
 
